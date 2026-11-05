@@ -1,0 +1,14 @@
+{
+  "id": "resp_text",
+  "output": [
+    {
+      "type": "message",
+      "content": [
+        {
+          "type": "output_text",
+          "text": "I cannot draw that"
+        }
+      ]
+    }
+  ]
+}

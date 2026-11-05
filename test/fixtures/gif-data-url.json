@@ -1,0 +1,9 @@
+{
+  "id": "resp_gif",
+  "output": [
+    {
+      "type": "image_generation_call",
+      "result": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "resp_data_url",
+  "output": [
+    {
+      "type": "image_generation_call",
+      "result": {
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg=="
+      }
+    }
+  ]
+}

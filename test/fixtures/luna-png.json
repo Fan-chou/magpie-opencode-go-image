@@ -1,0 +1,10 @@
+{
+  "id": "resp_luna_png",
+  "output": [
+    {
+      "type": "image_generation_call",
+      "revised_prompt": "a red circle on white",
+      "result": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg=="
+    }
+  ]
+}

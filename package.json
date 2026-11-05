@@ -1,0 +1,42 @@
+{
+  "name": "magpie-opencode-go-image",
+  "version": "0.1.0",
+  "description": "Magpie tools plugin that generates images through Magpie's local OpenCode Go Responses API (Luna PNG and Grok JPEG), with optional reference images, one string or an array of up to 4.",
+  "type": "module",
+  "main": "./index.mjs",
+  "files": [
+    "index.mjs",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "magpie",
+    "magpie-tools",
+    "opencode-plugin",
+    "mcp",
+    "image-generation"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fan-chou/magpie-opencode-go-image.git"
+  },
+  "homepage": "https://github.com/Fan-chou/magpie-opencode-go-image",
+  "bugs": {
+    "url": "https://github.com/Fan-chou/magpie-opencode-go-image/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "magpie": {
+    "name": "OpenCode Go 生图",
+    "summary": {
+      "en": "magpie-opencode-go-image: Luna PNG and Grok JPEG via Magpie's local OpenCode Go Responses API, with optional reference images, one string or an array of up to 4.",
+      "zh": "magpie-opencode-go-image：经 Magpie 本机 OpenCode Go 生图，Luna 出 PNG，Grok 出 JPEG，可选参考图，一个字符串或最多 4 张的数组。"
+    }
+  }
+}
